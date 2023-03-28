@@ -1,0 +1,98 @@
+{
+  margin: 0;
+  padding: 0;
+  box-size: border-box;
+  font-family: italic, arial, sans-serif;
+}
+
+body{
+  background-color:#FFFAFA
+}
+
+header{
+  width: 100%;
+  height: 100px;
+  background: #00FFFF;
+}
+
+.logo{
+  font-size: 55px;
+  font-family: italic, sans-serif, cursive;
+  text-align: center;
+  line-height: 100px
+}
+
+.logo a{
+text-decoration: none;
+font-size; 80px;
+font-family: italic;
+color: #FF00FF;
+letter spacing: 5px  
+}
+
+
+h1{
+  font-size: 36px ;
+  font-style: italic, sans-serif;
+  color:black;
+  text-align: center;
+}
+
+h2{
+  font-size: 20px;
+  font-style: italic;
+  color:black;
+  text-align: center;
+}
+
+h3{
+  font-size: 24px;
+  font-style:italic;
+  text-align: center;
+  color: #00000;
+  
+}
+
+p{
+  font-size: 20px;
+  font-style: arial, serif; 
+  color:#00000;
+  text-align: center;
+}
+
+p{
+  margin-top: 75px;
+  margin-bottom: 75px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+ul{
+  font-size: 20px;
+  font-style: arial, serif;
+  text-align: center;
+  color: black;
+}
+
+ol{
+  font-size: 20px;
+  font-style: arial, serif;
+  text-align: center;
+  color: black;
+}
+
+  a[href^="mailto:"]{
+      font-size: 20px;
+      text-align: center;
+      color:#FF00FF;
+  }
+
+footer{
+  font-size: 12px;
+  text-align: center;
+  line-height: 100px;
+  width: 100%;
+  height: 100px;
+  background: #00FFFF;
+}
+
